@@ -1,0 +1,8 @@
+// comando pra criar aplicação react neste diretório
+npx create-react-app . 
+
+//startar aplicação
+npm start
+
+
+reactrouter.com
